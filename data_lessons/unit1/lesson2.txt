@@ -1,0 +1,15 @@
+LESSON 2: CONDITIONAL PROBABILITY
+
+Conditional probability means that theres a condition that must be met, normally in the question it is written 'given that'
+
+General Formula:
+    P(B|A) = P(A (int) B)/ P(A) or P(B|A) = n(A (int) B)/ n(A)
+
+    | - means 'given that'
+    A - condition (always after this | symbol)
+
+Example: The probability of event G is 3/255. The probability of event H is 21/30, and the probability of both is 4/405. Determine the probability that of H given G.
+
+P(H|G) = P(H (int) G)/P(G)
+P(H|G) = (4/405) / (3/255)
+P(H|G) = 68/81

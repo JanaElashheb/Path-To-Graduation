@@ -1,0 +1,46 @@
+LESSON 4
+
+PART 1: ALGEBRAIC VECTORS IN R(ss3)
+
+R(ss3) is esentialy 3-dimensional space, it creats the xyz-plane
+(lesson 4 - pic 1.png)
+To plot a 3D point at (a,b,c), move a units in the x-direction, b units in the y-direction, and c units in the z-direction; the format for the coordinates is (x,y,z)
+
+To get the magnitude of a vector in R(ss3) its simply, if (vec)u = [a,b,c] then |(vec)u| = (sqr)x(ss2)+y(ss2)+z(ss2)
+
+DIRECTIONAL ANGLES:
+In 2 dimensions, the direction of the vector is given by a single angle, but in 3-dimensions, the direction of the vectors is given by 3 angles, called DIRECTION ANGLES also known as DIRECTIONAL COSINES
+
+The direction angles of vector [a,b,c] are (alpha),(beta),(gamma), wich are the angles the vector makes with the positive x-,y-,z-, axes
+(lesson 4 - pic 2.png)
+
+The angles are always between 0(deg)(le)(alpha),(beta),(gamma)(le)180(deg)
+
+There are formulas that go with each angle:
+
+z-axis to the vector: (lesson 4 - pic 3.png)
+x-axis to the vector: (lesson 4 - pic 4.png)
+y-axis to the vector: (lesson 4 - pic 5.png)
+
+PLANES IN R(ss3):
+(lesson 4 - pic 6.png)
+Planes can be labelled with equations, every point on the xy-plane has a z-component of 0, that means that every coordinate has a form of (x,y,0), therefore the xy-plane is represented by the equation z = 0
+That means that for the yz-plane the equation would be x = 0 and for the xz-plane the equation would be y = 0
+
+Example:
+Determine the equation of the plane containing all of the three points: A(3,2,-2), B(-1,2,2), C(-3,2,-1)
+Since all the points have a y-coordinate of 2, that means that the equation of the plan would be y = 2
+
+PART 2: OPERATIONS ON ALGEBRAIC VECTORS
+
+(lesson 4 - pic 7.png)
+
+Since we already covered operations with vectors, we will just be seeing multiple examples of different types of questions
+
+Example 1:
+Let's say we are given the following question: If (vec)u = [2,3,-1] and (vec)v = [0,1,4], find (vec)w = 5(vec)u - 2(vec)v
+(lesson 4 - pic 8.png)
+
+Example 2:
+(lesson 4 - pic 9.png)
+(lesson 4 - pic 10.png)

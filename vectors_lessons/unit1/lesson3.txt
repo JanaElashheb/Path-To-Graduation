@@ -1,0 +1,56 @@
+LESSON 3: ALGEBRAIC VECTORS IN R(ss2)
+
+A geometric vector is defined by have a magnitude and direction, for example (vec)v has a magnitude of 10 and direction north 45(deg) east.
+However, this is not the only way to represent the vector, we can also represent them using the notation of algebraic vectors
+
+In order to do so, first position the tail of the vector at the origin (0,0) of a cartesian plane.
+(lesson 3 - pic 1.png)
+
+If we wanted to draw (vec)v, that was discussed before we can draw that triangle just like the one in the image above, and then we do the x and y components
+(lesson 3 - pic 2.png)
+(lesson 3 - pic 3.png)
+The result would be (vec)v = [5(sqr)2 , 5(sqr)2] - This means that it starts at (0,0) to this point
+
+A POSTION VECTOR of point P is the vector (vec)OP with the tail at the origin O, and the tip at point P. Essentialy the position vector is the vector from the origin (tail) to the tip
+(lesson 3 - pic 4.png)
+
+NOTE: The direction of an algebraic vector is ALWAYS the angle from the postive x-axis rotated counter-clockwise to the vector
+
+To get the magnitude of the postion vector, all you have to do is use the distance formula: |(vec)OP| = (sqr)((delta)x)(ss2) + ((delta)y)(ss2), (delta) means the change in
+
+Say you are given the question: Draw vector (vec)OP = [-2,3] and determine its magnitude and direction
+
+To solve this start by drawing (vec)OP on the cartesian plane, remember that (vec)OP is a postion vector, that means that it starts at the origin to the coordinate given.
+(lesson 3 - pic 5.png)
+Idealy there should be an arrow at point P
+The purple line is the y-component, its generally better to lable at as y, your y component would be the y - coordinate
+The black line is the x-component, its generally better to lable at as x, your x component would be the x - coordinate
+
+Next to find the magnitude use the distance formula:
+(lesson 3 - pic 6.png)
+Since its a postion vector, you don't have to subtracte the head from the tail,you can just use the coordinates directly
+
+To find the direction, ind the angle from the positive x-axis to (vec)OP
+
+UNIT VECTORS:
+(lesson 3 - pic 7.png)
+
+To write vector (vec)OQ = [-5,-1] in terms of (vec)i and (vec)j, simply take the coordinates and put them as coefficiants, (vec)OQ = -5(vec)i + (-1)(vec)j
+
+HOW TO FIND A POSITION VECTOR:
+A cartesian vector is a vector with end points, and neither of them is (0,0), to turn the cartesion vector into the postion vector, we essentialy have to translate the tail to (0,0).
+This is also used to easily calculate the magnitude.
+Say we are give (vec)AB where (vec)A = [-4,-2] and (vec)B = [-1,2], how would we turn this into a position vector?
+(lesson 3 - pic 8.png)
+We have the red line, and are trying to turn it into the blue line, to do this is very simple.
+To get the coordinates of the position vector all you simply have to do is, the head - the tail and squaring it, esentialy the coordinates of B - A squared (the order is VERY important)
+(vec)AB = [(-1-(-4))(ss2),(2-(-2))(ss2)]
+(vec)AB = [3,4]
+
+ADDING ALGEBRAIC VECTORS:
+(lesson 3 - pic 9.png)
+
+MULTIPLICATION BY A SCALAR:
+(lesson 3 - pic 10.png)
+(lesson 3 - pic 11.png)
+

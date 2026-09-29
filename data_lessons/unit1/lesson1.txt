@@ -1,0 +1,67 @@
+LESSSON 1: THEORETICAL PROBABILITY AND THE ADDITIVE PRINCIPLE AND MUTTUALLY EXCLUSIVE EVENTS
+
+1. THEORETICAL PROBABILITY
+
+Theoretical probability is the ratio (fraction) of the number of outcomes that make up an event to the total number of possible outcomes.
+
+The formula is P(A) = n(A)/n(S),
+
+P = the probability
+n = number
+S = sample (total options)
+A = event (what we are looking for)
+
+When using the formula you would sub in the actual names.
+
+Example: At Merivale HS there are: 411 Gr12, 391 Gr11, 380 Gr10, 380 Gr9, what is the probability of senior students?
+
+senior - means Gr 12 and 11
+
+P(senior) = n(senior)/n(students)
+P(senior) = (411 + 391)/(411 + 391 + 380 + 380)
+P(senior) = 802/1562 , since its a probability its fine to not reduce the fraction
+
+We can also find the probability of a complementray event:
+P(event not happening) = total - P(event happens)
+
+Normaly for the P(event not happening), we use this ' symbol to represent it.
+
+NOTE: 
+      - Something to keep in mind is that if you are dealing with percents sub in 100 as the total, if you are dealing with fractions sub in 1 as your total,
+      - If the question gives percents/fractions use the formula as is, BUT if the questions is written with whole numbers, change the P's into n's, since its not a probability
+
+Example: There is a 60% chance it rains, what is the probability of it NOT raining?
+
+P(rain)' = 100% - P(rain)
+P(rain)' = 100% - 60%
+P(rain)' = 40%
+
+Example: There are 14 students in a class of 30 with long hair, what is the probability of students NOT having long hair?
+
+n(long hair)' = n(total) - n(long hair)
+n(long hair)' = 30 - 14
+n(long hair)' = 16
+
+2. THE ADDITIVE PRINCIPLE AND MUTTUALLY EXCLUSIVE EVENTS
+
+Formulas:
+        n(A (union) B) = n(A) + n(B) - n(A (int) B)
+        P(A (union) B) = P(A) + P(B) - P(A (int) B)
+
+The (union) symbol reprents a union (OR)
+The (int) symbol represents an intersection (AND)
+
+Muttually exclusive - means that the events can't happen at the same time
+
+If an event is muttually exclusive then, n(A (int) B)/P(A (int) B) would equal 0.
+
+Example: There are 16 boys on the soccer team and 28 boys on the rugby team. 9 students play on both teams. How many boys are on either of the two teams?
+n(S (union) R) = n(S) + n(R) - n(S (int) R)
+n(S (union) R) = 16 + 28 -9
+n(S (union) R) = 35 boys
+
+Example: The probability of event A is 3/10, the probability of event B is 2/5. The probability of event A or B occurring is 7/10. Are these events mutually exclusive?
+P(A (union) B) = P(A) + P(B) - P(A (int) B)
+7/10 = 3/10 + 2/5 - P(A (int) B)
+7/10 = 7/10 - P(A (int) B)
+P(A (int) B) = 0 - yes mutually exclusive

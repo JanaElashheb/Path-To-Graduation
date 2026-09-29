@@ -1,0 +1,44 @@
+LESSON 2
+
+PART 1: MULTIPLICATION OF A VECTOR BY A SCALAR
+When given k(vec)a, k is the scalar (coefficiant) and (vec)a is the non-zero vector
+
+If k > 0, then k(vec)a will have the same DIRECTION as (vec)a, and has a magnitude of the scalar times the magnitude of (vec)a; k|vec)a|
+(lesson 2 - pic 1.png)
+
+If k < 0, then k(vec)a will have the OPPOSITE DIRECTION as (vec)a, and has a  magnitude of magnitude of the scalar times the magnitude of (vec)a; |k||vec)a|
+(lesson 2 - pic 2.png)
+
+NOTE: If you multiply the vector by a saclar of 0, you get the ZERO VECTOR
+(lesson 2 - pic 3.png)
+
+If 2 or more vectors are nonzero scalar mulriples of each other ((vec)v = k(vec)w), they are considered COLLINEAR.
+
+NOTES: Collinear is used interchangeably with parallel, it essentaily means on the same line, in other words COINCIDENT LINES.
+
+Linear Dependancy:
+    if (vec)a and (vec)b are collinear, then (vec)a = k(vec)b
+    if k > 0, that means that the vectors have the same DIRECTION
+    if k < 0, that means that the vectors have the OPPOSITE DIRECTION
+
+Important definition:
+A UNIT VECTOR ((vec)u) is a vector with a magnitude of 1.
+If |(vec)a| = 4 then the collinear unit vector would be, (vec)u = 1/4 (vec)a
+The general form of the unit vector is:
+(lesson 2 - pic 4.png)
+
+PART 2: PROPERTIES OF VECTORS
+
+Properties of Addition:
+COMMUTATIVE property of addition: 
+(lesson 2 - pic 5.png)
+ASSOCIATIVE property of addition: 
+(lesson 2 - pic 6.png)
+DISTRIBUTIVE property of addition: 
+(lesson 2 - pic 7.png)
+
+Law for Scalars:
+ASSOCIATIVE law for scalars: 
+(lesson 2 - pic 8.png)
+DISTRIBUTIVE law for scalars: 
+(lesson 2 - pic 9.png)

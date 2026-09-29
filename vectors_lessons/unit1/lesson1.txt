@@ -1,0 +1,57 @@
+
+LESSON 1: INTRODUCTION TO VECTORS
+
+PART 1
+A vector is something with both direction and magnitude. 
+Its length represents its magnitude (size), where the direction the vector points in represents the direection it moves in.
+Opposite vectors are parallel with the same magnitude but opposite direction.
+(lesson 1 - pic 1.png)
+
+The magnitude of a vector is represented by two pipes around it. Ideally, on paper your vector would have a little arrow on top.
+But due to the nature of this computerized game and the subsequent experience of the creators, they will be represented with an arrow before.
+This is a vector: (vec)AB
+This means we're speaking of the magnitude of (vec)AB: |(vec)AB|
+
+They can be represented geometrically or algebraically (on a cartesian plane).
+Note DIRECTION:
+Bearings are measured from North in a clockwise direction.
+Direction is stated as the number of degrees east or west of north or south. I.e [N78(deg)W].
+
+Vectors are only equal if they have the same MAGNITUDE and DIRECTION. Magnitudes are always positive.
+(lesson 1 - pic 2.png)
+
+ALGEBRAICALLY, you can calculate the magnitude of a vector by the following formula:
+|(vec)AB| = (sqr)(x(ss2)+y(ss2))
+(lesson 1 - pic 3.png)
+(vec)AB has a tail at B(-4, 2) and a head at A(-1, 3). Determine coordinates of point E on (vec)EF if F(3, -2) and EF = AB.
+(lesson 1 - pic 4.png)
+
+PART 2: ADDING, SUBTRACTING VECTORS
+When you add or subtract two or more vectors, you get the resultant vector (vec)r, which represents the combined effect of the vectors.
+
+ADDING VECTORS:
+There are two methods to add vectors, one is called head to tail, and the other is called the parallelogram method. 
+
+Method 1: Head to tail:
+(lesson 1 - pic 5.png)
+
+Method 2: Parallelogram method:
+(lesson 1 - pic 6.png)
+
+NOTES: If a question states that the angle between the two vectors is x, always assume that the vectors are placed tail to tail (parallelogram method)
+
+SUBTRACTING VECTORS:
+Subracting vectors is simply just adding the opposite.
+(lesson 1 - pic 7.png)
+
+Keep in mind:
+(lesson 1 - pic 8.png)
+
+ADDING/SUBTRACTING ALGEBRAIC VECTORS:
+An algebraic vectors means a vector that is represented on a cartesian plane, in other words coordinates.
+
+When given two algebraic vectors, (vec)a = (x(sb1),y(sb1)) and (vec)b = (x(sb2),y(sb2)), you combine the x the y of both coordinates:
+Adding the vectors (vec)a + (vec)b: (x(sb1) + x(sb1), y(sb1) + (y(sb2))
+Subtracting the vectors (vec)a - (vec)b: (x(sb1) + x(sb1), y(sb1) + (y(sb2))
+
+The resultant would be the final coordinate after combining the coordinates.
